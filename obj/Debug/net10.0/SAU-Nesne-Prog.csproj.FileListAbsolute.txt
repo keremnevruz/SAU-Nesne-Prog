@@ -1,0 +1,5 @@
+/Users/keremnevruz/Documents/GitHub/SAU-Nesne-Prog/obj/Debug/net10.0/SAU-Nesne-Prog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremnevruz/Documents/GitHub/SAU-Nesne-Prog/obj/Debug/net10.0/SAU-Nesne-Prog.AssemblyInfoInputs.cache
+/Users/keremnevruz/Documents/GitHub/SAU-Nesne-Prog/obj/Debug/net10.0/SAU-Nesne-Prog.AssemblyInfo.cs
+/Users/keremnevruz/Documents/GitHub/SAU-Nesne-Prog/obj/Debug/net10.0/SAU-Nesne-Prog.csproj.CoreCompileInputs.cache
+/Users/keremnevruz/Documents/GitHub/SAU-Nesne-Prog/obj/Debug/net10.0/SAU-Nesne-Prog.sourcelink.json
